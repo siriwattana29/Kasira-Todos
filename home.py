@@ -1,4 +1,3 @@
-
 import streamlit as st
 from firebase_admin import firestore
 
